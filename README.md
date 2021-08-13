@@ -23,7 +23,7 @@ Email me!
 ## Tests
 To run tests, run the following:
 `
-In video
-`
+npm test
+` This will show a demo premade team! 
 ## Questions
 Questions about this repository? Please contact me at [pedrocerv1@hotmail.com](mailto:pedrocerv1@hotmail.com). View more of my work in Github [AlfonsoCerv7](https://github.com/AlfonsoCerv7) 
