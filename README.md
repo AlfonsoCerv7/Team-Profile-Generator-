@@ -12,7 +12,7 @@ This simple command line application will dynamically generate html that display
 ## Installation
 To install dependencies, run the following:
 `
-Watch my walkthrough video for how to use this small program! 
+Watch my walkthrough video for how to use this small program! https://drive.google.com/file/d/1oGzZ6txgO43EaaLRIJTIW9pZPH-QGMq-/view
 `
 ## Usage
 N/A
